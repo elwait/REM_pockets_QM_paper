@@ -5,7 +5,7 @@
 # 2024
 
 # Purpose:
-# Example of how to get a Z-matrix from a Gaussian16 checkpoint file
+# Example of how to get XYZ from a Gaussian16 checkpoint file
 # Intended for getting optimized geometry after running optimization
 
 # Notes:

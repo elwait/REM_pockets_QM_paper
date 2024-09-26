@@ -1,4 +1,5 @@
 La 1
+Ce 2
 Nd 4
 Sm 6
 Gd 8
